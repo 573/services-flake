@@ -9,6 +9,7 @@ in
     ./mysql
     ./nginx
     ./ollama.nix
+    ./photoprism.nix
     ./postgres
     ./open-webui.nix
     ./redis-cluster.nix
